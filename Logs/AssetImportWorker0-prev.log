@@ -1,0 +1,329 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.11f1 (4d8c25f7477e) revision 5082149'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 8149 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Program Files\Unity\Unity Editors\Unity 2021.1.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Users/Prakash/Documents/Unity Projects/Solar System
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+8520
+Successfully changed project path to: D:/Users/Prakash/Documents/Unity Projects/Solar System
+D:/Users/Prakash/Documents/Unity Projects/Solar System
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 117.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.11f1 (4d8c25f7477e)
+[Subsystems] Discovering subsystems at path E:/Program Files/Unity/Unity Editors/Unity 2021.1.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/Prakash/Documents/Unity Projects/Solar System/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+    Driver:   27.21.14.5709
+Initialize mono
+Mono path[0] = 'E:/Program Files/Unity/Unity Editors/Unity 2021.1.11f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Program Files/Unity/Unity Editors/Unity 2021.1.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Program Files/Unity/Unity Editors/Unity 2021.1.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Program Files/Unity/Unity Editors/Unity 2021.1.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001231 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 115.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1352ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (678ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (308ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (116ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (136ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004654 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Users\Prakash\Documents\Unity Projects\Solar System\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Users\Prakash\Documents\Unity Projects\Solar System\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1592ms)
+		BeginReloadAssembly (191ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1332ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (465ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (544ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (435ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2942 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.7 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3386.
+Total: 4.474200 ms (FindLiveObjects: 0.560400 ms CreateObjectMapping: 0.283200 ms MarkObjects: 3.539900 ms  DeleteObjects: 0.089400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(fe0f6c7b98742fc4c857f9f90c3cfef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(fe0f6c7b98742fc4c857f9f90c3cfef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ecd50009d0e6d4c598715713e85078') in 0.012289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 356.381283 seconds.
+  path: Assets/Textures/JupiterTexture.jpg
+  artifactKey: Guid(7f4791c2d5198dc4ebfba84d4fa64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/JupiterTexture.jpg using Guid(7f4791c2d5198dc4ebfba84d4fa64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33beda5e41bf3c9ed45f22751a06df8b') in 0.546987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Textures/MarsTexture.jpg
+  artifactKey: Guid(c34570260b0c070498fb6df2f5d230f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MarsTexture.jpg using Guid(c34570260b0c070498fb6df2f5d230f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631818ae3b83cfddcba5105313ba3530') in 0.100014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Textures/NeptuneTexture.jpg
+  artifactKey: Guid(20e775e0082296d4589f812c764b3891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NeptuneTexture.jpg using Guid(20e775e0082296d4589f812c764b3891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7c1e418eaa3869cb0b955ebd0245d6') in 0.083889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Textures/PlutoTexture.jpg
+  artifactKey: Guid(25d5e7fe9a4dc0047994b7b76c38d66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/PlutoTexture.jpg using Guid(25d5e7fe9a4dc0047994b7b76c38d66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6541e84f3806707aa26b74596b75e4') in 0.129442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Textures/MercuryTexture.jpg
+  artifactKey: Guid(5d2700a914771b44ebaa51c4b13c0f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MercuryTexture.jpg using Guid(5d2700a914771b44ebaa51c4b13c0f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2b642f7227a105585ce44fb91cbc09') in 0.056157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.324945 seconds.
+  path: Assets/Textures/SaturnTexture.jpg
+  artifactKey: Guid(765596bbd1af2f741aca2aaba9765934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SaturnTexture.jpg using Guid(765596bbd1af2f741aca2aaba9765934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5086f6bcd46aa252f0fedc15e0d5b35c') in 0.061676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Textures/SpaceTexture.jpg
+  artifactKey: Guid(598cee222e8c7a049a4cc09403d27c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SpaceTexture.jpg using Guid(598cee222e8c7a049a4cc09403d27c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6ce025e17441127ee21b80721c59a7') in 0.065763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.257464 seconds.
+  path: Assets/Icons/SunIcon.png
+  artifactKey: Guid(b9130e40844af084a968240c7abe5ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Icons/SunIcon.png using Guid(b9130e40844af084a968240c7abe5ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ddda61542bd41fbf2301fb7acf9aa5') in 0.056473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.340947 seconds.
+  path: Assets/Textures/UranusTexture.jpg
+  artifactKey: Guid(70dcbc2995ccc254da31097f5e7dd6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UranusTexture.jpg using Guid(70dcbc2995ccc254da31097f5e7dd6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7496aeb83106a2d1f409098342bbba') in 0.067803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Textures/VenusTexture.jpg
+  artifactKey: Guid(1f94ee7515a606145ac6a35dfb0b54d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/VenusTexture.jpg using Guid(1f94ee7515a606145ac6a35dfb0b54d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5aa9cb6ea24d546d58427fb0f37352b') in 0.035525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.013703 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(0ce5d728b74b1a04eb79073e7cca16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(0ce5d728b74b1a04eb79073e7cca16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a931851707752944fb881f647937a7') in 0.013933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 532.663373 seconds.
+  path: Assets/_Scenes/Solar system.unity
+  artifactKey: Guid(86f559ebb9ca7794db1c5483a1af20e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Solar system.unity using Guid(86f559ebb9ca7794db1c5483a1af20e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cd778909ff98342edfe06ac7b5703c') in 0.010934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1070.735499 seconds.
+  path: Assets/6797833-hd-space-wallpapers.jpg
+  artifactKey: Guid(23205d511f1dbc740a7b4cf968379cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/6797833-hd-space-wallpapers.jpg using Guid(23205d511f1dbc740a7b4cf968379cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfa039145dbe0f7d6ac0f27ddf22bf2') in 0.027890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.869471 seconds.
+  path: Assets/Materials/Moon Material.mat
+  artifactKey: Guid(fc187ad90c5a2a1468c68bb284d2f0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Moon Material.mat using Guid(fc187ad90c5a2a1468c68bb284d2f0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1967a8401d30ad68202eec9037db3c16') in 0.171583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Materials/Outer Space Skybox.mat
+  artifactKey: Guid(c0acdfffde1afe948b5ab358294eb53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Outer Space Skybox.mat using Guid(c0acdfffde1afe948b5ab358294eb53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0a0f1d05b2115c522439e990b4f6ea') in 0.079254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Materials/Sun Material.mat
+  artifactKey: Guid(6ac38646570f79f4f99b48427223449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sun Material.mat using Guid(6ac38646570f79f4f99b48427223449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400f92e442c0be31fe357cd673fa8acc') in 0.038302 seconds 
+========================================================================
+Received Prepare
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Trying to reload asset but can't find object on disk
+
+Registering precompiled user dll's ...
+Registered in 0.006645 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Users\Prakash\Documents\Unity Projects\Solar System\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Users\Prakash\Documents\Unity Projects\Solar System\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.631 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1632ms)
+		BeginReloadAssembly (211ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (104ms)
+		EndReloadAssembly (1340ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (544ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (442ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (356ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2933 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 114.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3582.
+Total: 7.275200 ms (FindLiveObjects: 0.773300 ms CreateObjectMapping: 0.649300 ms MarkObjects: 5.775300 ms  DeleteObjects: 0.075500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
