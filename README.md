@@ -1,6 +1,25 @@
 # Solar-System
 Solar System Project created in Unity3D
 
+This is my Solar System Project, This contains the following Planets
+
+✅Mercury
+
+✅Venus
+
+✅Mars
+
+✅Jupiter 
+
+✅Saturn
+
+✅Uranus
+
+✅Neptune
+
+
+<br>
+<br>
 Here you can see a live demo: https://prakash4844.itch.io/solar-system
 
 ![Full Solar System](https://github.com/Prakash4844/Solar-System/blob/main/Screenshots/Full%20Solar%20system.jpg)
